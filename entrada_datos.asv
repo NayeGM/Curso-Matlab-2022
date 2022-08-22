@@ -1,0 +1,10 @@
+clear all
+close all
+clc
+
+x= input("Dame un dato x ");
+y= input/"Dame un dato y ");
+z=x+y;
+w=x*y;
+
+disp()
